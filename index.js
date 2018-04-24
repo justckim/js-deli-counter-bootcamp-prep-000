@@ -32,6 +32,6 @@ function currentLine(line) {
       lineString = lineString + ", " + k  + ". " + line[i]
     } 
   }
-  
+
   return lineString
 }
